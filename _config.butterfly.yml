@@ -15,6 +15,16 @@ code_blocks:
   fullpage: false
 
 # Link
-social:
-  fab fa-github: https://github.com/Yinris05 || Github || "#hdhfbb"
-  fas fa-envelope: mailto:xxxxxx@gmail.com || Email || "#000000"
+# social:
+  # fab fa-github: https://github.com/Yinris05 || Github || "#hdhfbb"
+  # fas fa-envelope: mailto:xxxxxx@gmail.com || Email || "#000000"
+
+aside:
+  card_author:
+    enable: true
+    description:
+    button:
+      enable: true
+      icon: fab fa-github
+      text: Follow Me
+      link: https://github.com/Yinris05
